@@ -1,2 +1,7 @@
 [cache]
     dir = D:\my-dvc-project\.dvc-cache
+[core]
+    remote = myazure
+['remote "myazure"']
+    url = azure://dvc
+    account_name = wut2026
